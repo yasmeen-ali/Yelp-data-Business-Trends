@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5aad6f88497775d6b0aab021"},"year":"2004","count":14.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab022"},"year":"2005","count":870.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab023"},"year":"2006","count":5669.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab024"},"year":"2007","count":23020.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab025"},"year":"2008","count":61553.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab026"},"year":"2009","count":98288.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab027"},"year":"2010","count":187073.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab028"},"year":"2011","count":290933.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab029"},"year":"2012","count":350381.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab02a"},"year":"2013","count":472595.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab02b"},"year":"2014","count":678351.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab02c"},"year":"2015","count":911487.0}
+{"_id":{"$oid":"5aad6f88497775d6b0aab02d"},"year":"2016","count":1.052917e+06}
+{"_id":{"$oid":"5aad6f88497775d6b0aab02e"},"year":"2017","count":1.128518e+06}

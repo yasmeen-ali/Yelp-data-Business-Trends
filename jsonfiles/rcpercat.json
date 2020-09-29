@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92b8"},"Category":"Restaurants"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92b9"},"Category":"Food"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92ba"},"Category":"Nightlife"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92bb"},"Category":"Bars"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92bc"},"Category":"American (New)"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92bd"},"Category":"American (Traditional)"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92be"},"Category":"Breakfast \u0026 Brunch"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92bf"},"Category":"Event Planning \u0026 Services"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92c0"},"Category":"Shopping"}
+{"_id":{"$oid":"5ab80bc658f7a120bfeb92c1"},"Category":"Sandwiches"}
